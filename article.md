@@ -26,6 +26,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   * point 2
   * point 3
 
+![Science & GitHub!](https://octodex.github.com/images/labtocat.png)
+
 ## Second Section
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
