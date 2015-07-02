@@ -2,6 +2,7 @@
 title: Scholarly Publishing with GitHub for Teams & Individuals
 authors:
   - Brian Zelip, bzelip@hshsl.umaryland.edu
+  - Jane Schmo, jschmo2@hshsl.umaryland.edu
 ---
 
 # Scholarly Publishing with GitHub for Teams & Individuals
