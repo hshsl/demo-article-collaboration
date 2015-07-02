@@ -1,17 +1,16 @@
-# This is the README file
+# This is the README file describing the content of this repository
 
 ## Why is this repository here?
-This repository accompanies the hands-on portion of the HSHSL workshop **Scholarly Publishing with GitHub for Teams &amp; Individuals**. It is the basis for students to:
-  1. fork this repository to their own GitHub account,
-  2. edit files on a new branch of their forked version of this repository,
-  3. commit the edits to their repository,
-  4. then submit a pull request to merge the updated files to the source of the forked repository.
+This repository accompanies the hands-on portion of the HSHSL workshop **Controlling Your Scholarly Work with GitHub**. It is the starting point for students to learn to:
+  1. fork a repository,
+  2. commit changes made to files in a repository,
+  3. comment on someone else's repository,
+  4. and submit a pull request to someone else's repository.
 
-The above four steps represent a common GitHub (and git) workflow for both teams and individuals.
 
 ## What's in this repository?
-Besides this readme file there is:
-  - `article.md` - a text document that represents a scholarly article being written
+There are three files besides this readme file:
+  - `article.md` - a text document written in [markdown](https://help.github.com/articles/markdown-basics/) that represents a scholarly article being written
   - `data.csv` - a csv file that represents data related to the scholarly article
   - `LICENSE` - the copywright terms under which this work can be used
 
